@@ -18,3 +18,9 @@
     </ul>
   </p>
 <hr/>
+  <strong>flex:1</strong>
+  <p>
+    Estamos liberando o componente para ocupar a tela inteira.
+    <br/>
+    Essa propriedade é muito semelhante ao "flexGrow".
+  </p>

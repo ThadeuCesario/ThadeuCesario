@@ -18,6 +18,9 @@ export default () => {
 
 const style = StyleSheet.create({
     App:{
-        
+        padding: 30,
+        flex: 1,
+        justifyContent: "center",
+        alignItems: "center",
     }
 });
