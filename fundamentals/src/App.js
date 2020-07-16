@@ -2,7 +2,7 @@ import React from 'react';
 import {View, Text} from 'react-native';
 
 import PrimeiroComponente from './components/Primeiro';
-import {MultiComponenteOne, MultiComponenteTwo, MultiComponenteThree} from './components/Multi';
+import {MultiComponenteOne, MultiComponenteTwo, MultiComponenteThree as AnoterName} from './components/Multi';
 
 export default () => {
     return(
@@ -11,7 +11,7 @@ export default () => {
             <PrimeiroComponente></PrimeiroComponente>
             <MultiComponenteOne />
             <MultiComponenteTwo />
-            <MultiComponenteThree />
+            <AnoterName />
         </View>
     )
 }
