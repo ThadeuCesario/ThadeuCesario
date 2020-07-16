@@ -1,10 +1,12 @@
 import React from 'react';
-import {Text} from 'react-native';
+import {View} from 'react-native';
 
 import PrimeiroComponente from './components/Primeiro';
 
 export default () => {
     return(
-        <PrimeiroComponente></PrimeiroComponente>
+        <View>
+            <PrimeiroComponente></PrimeiroComponente>
+        </View>
     )
 }
