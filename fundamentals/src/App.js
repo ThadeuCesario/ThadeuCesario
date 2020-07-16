@@ -1,9 +1,7 @@
 import React from 'react';
 import {Text} from 'react-native';
 
-function App(){
-    let jsx = <Text>Hello World</Text>;
+export default () => {
+    let jsx = <Text>Arrow Function</Text>;
     return jsx;
 }
-
-export default App;
