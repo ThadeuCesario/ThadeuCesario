@@ -4,7 +4,8 @@ import Style from './estilo';
 
 export default (props) => {
     const {max, min} = props;
-    console.warn(typeof max);
+    
+    //console.warn(typeof max);
     return(
         <Text style={Style.fontG}>O valor {max} é maior que o valor {min}!</Text>
     );
