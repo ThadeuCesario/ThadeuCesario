@@ -4,15 +4,16 @@ import {Text, Button} from 'react-native';
 import Style from './estilo';
 
 export default props => {
-    //let {inicial} = props;
     const [inicial, setInicial] = useState(props.inicial);
+    const [passo, setPasso] = useState(props.passo);
+
 
     const incrementNumber = _ => {
-        setInicial(inicial+1);
+        setInicial(inicial + passo);
     }
 
     const decrementNumber = _ => {
-        setInicial(inicial-1);
+        setInicial(inicial - passo);
     }
 
     return(
