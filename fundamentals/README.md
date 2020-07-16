@@ -98,3 +98,15 @@
 
   Veja que no 'onPress' coloquei a função sem os parenteses. Isso porque estou fazendo uma referência para aquela função.
   </p>
+  <hr/>
+  <strong>Criando Button no React Native</strong>
+  <p>
+    Bem para isso o procedimento é muito simples. <br/>
+    Basta importar o 'Button' do react-native e utilizá-lo. 
+
+
+  </p>
+
+  <code>
+    import {Button} from 'react-native';
+  </code>
