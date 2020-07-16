@@ -53,4 +53,26 @@
    <br/>
    Em breve veremos os estados. ;D
    <hr/>
-    
+<strong>React Fragment</strong>
+  <p>
+    Lembre-se que não podemos retornar dois elementos adjacentes no React. Precisamos englobar os elementos. Pode ser utilizando o <code>< React.Fragment >< /React.Fragment ></code>.<br/>
+    Ou simplesmente: 
+    <code>
+    < >< />
+    </code>
+  </p>
+  Veja o exemplo: 
+  <code>
+  <pre>
+  export default props => {
+    const {principal, secundario} = props;
+    return (
+        < >
+            < Text style={Style.fontG}>{principal}< /Text >
+            < Text>{secundario}< /Text >
+        </ >
+    );
+}
+  </pre>
+  </code>
+  <hr/>
