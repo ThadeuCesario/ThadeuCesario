@@ -5,8 +5,9 @@ import {View, StyleSheet} from 'react-native';
 /* import PrimeiroComponente from './components/Primeiro';
 import {MultiComponenteOne, MultiComponenteTwo, MultiComponenteThree as AnoterName} from './components/Multi';
 import MinMax from './components/MinMax'; 
-import Aleatorio from './components/Aleatorio';*/
-import Titulo from './components/Titulo';
+import Aleatorio from './components/Aleatorio';
+import Titulo from './components/Titulo';*/
+import Botao from './components/Botao';
 
 export default () => {
     return(
@@ -17,8 +18,9 @@ export default () => {
             <AnoterName />
             <MinMax min={3} max={30}/>
             <MinMax min={1} max={94}/> 
-            <Aleatorio min={1} max={99}/>*/}
-            <Titulo principal={'React Native'} secundario={'É muito legal.'}/>
+            <Aleatorio min={1} max={99}/>
+            <Titulo principal={'React Native'} secundario={'É muito legal.'}/>*/}
+            <Botao />
         </View>
     )
 }

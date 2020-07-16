@@ -76,3 +76,25 @@
   </pre>
   </code>
   <hr/>
+  <strong>Passando uma função como referência</strong>
+  <p>
+    Passar uma função como referência é diferente de executar uma função.
+    Veja o código abaixo: 
+
+    <code>
+      <pre>
+      export default props => {
+
+          function executar(){
+              console.warn('React Native é show!');
+          }
+
+          return(
+              <Button title={'Executar!'} onPress={executar}/>
+          );
+      }
+      </pre>
+    </code>
+
+  Veja que no 'onPress' coloquei a função sem os parenteses. Isso porque estou fazendo uma referência para aquela função.
+  </p>
