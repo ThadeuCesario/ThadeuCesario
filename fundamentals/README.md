@@ -110,3 +110,27 @@
   <code>
     import {Button} from 'react-native';
   </code>
+
+  <hr/>
+  <strong></strong>
+  <p></p>
+
+  <hr/>
+  <strong></strong>
+  <p></p>
+
+  <hr/>
+  <strong></strong>
+  <p></p>
+
+  <hr/>
+  <strong></strong>
+  <p></p>
+
+  <hr/>
+  <strong></strong>
+  <p></p>
+
+  <hr/>
+  <strong></strong>
+  <p></p>
