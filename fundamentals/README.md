@@ -28,7 +28,25 @@
 <hr/>
   <strong>Propriedades são somente leitura</strong>
   <p>
-    Uma regra importante do React é que as <i>props</i> , são <strong>Somente Leitura!!!</strong>.
+    Uma regra importante do React é que as <i>props</i> , são <strong>Somente Leitura!!!</strong>
     <br/>
     Portanto precisamos ter cuidado para não alterar diretamente esses propriedades.
+    <br/>
+    Caso você aplique o destructuring, funcionará normalmente a alteração dos valores de props. Então por exemplo, vamos supor que recebo dois valores pelo props:
   </p>
+    <code>
+      <pre>
+      export default = props => {
+        const {min, max} = props;
+        let incrementarMin = min + 1;
+        let incrementarMax = min + 1;
+        return(
+          < Text >{incrementarMin}< /Text >
+          < Text >{incrementarMax}< /Text >
+        )
+      }
+      </pre>
+    </code>
+
+   Veja,  que eu criei uma variável para incrementar Min e outra para incrementar Max. <br/>
+   Não incrimentei diretamente o valor dele.  
