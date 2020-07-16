@@ -1,7 +1,10 @@
 import React from 'react';
 import {Text} from 'react-native';
 
+import PrimeiroComponente from './components/Primeiro';
+
 export default () => {
-    let jsx = <Text>Arrow Function</Text>;
-    return jsx;
+    return(
+        <PrimeiroComponente></PrimeiroComponente>
+    )
 }
