@@ -9,3 +9,12 @@
     Sintaxe HTML com JS, relembrando que sempre que tivermos JSX, precisamos importar o React.
   </p>
 <hr/>
+  <strong>Execurando Projeto</strong>:
+  <p>
+    <ul>
+      <li>executar studio.sh</li>
+      <li>executar npm start</li>
+      <li>executar react-native run-android</li>
+    </ul>
+  </p>
+<hr/>
