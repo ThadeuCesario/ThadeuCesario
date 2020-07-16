@@ -3,3 +3,4 @@
   <p>
     Garantimos que o conteúdo será apresentado sempre na área visível tanto do IPhone quanto do Android.
   </p>
+<hr/>
