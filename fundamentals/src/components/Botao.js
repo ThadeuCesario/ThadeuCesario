@@ -4,7 +4,7 @@ import {Button} from 'react-native';
 export default props => {
 
     function executar(){
-        console.warn('Te amo Karina');
+        console.warn('React Native é show!!!!!');
     }
 
     return(
