@@ -49,4 +49,8 @@
     </code>
 
    Veja,  que eu criei uma variável para incrementar Min e outra para incrementar Max. <br/>
-   Não incrimentei diretamente o valor dele.  
+   Não incrimentei diretamente o valor dele. 
+   <br/>
+   Em breve veremos os estados. ;D
+   <hr/>
+    
