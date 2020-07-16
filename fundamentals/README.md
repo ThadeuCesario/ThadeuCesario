@@ -8,6 +8,7 @@
   <p>
     Sintaxe HTML com JS, relembrando que sempre que tivermos JSX, precisamos importar o React.
   </p>
+  <code>import 'React' from react;</code>
 <hr/>
   <strong>Execurando Projeto</strong>:
   <p>
@@ -23,4 +24,11 @@
     Estamos liberando o componente para ocupar a tela inteira.
     <br/>
     Essa propriedade é muito semelhante ao "flexGrow".
+  </p>
+<hr/>
+  <strong>Propriedades são somente leitura</strong>
+  <p>
+    Uma regra importante do React é que as <i>props</i> , são <strong>Somente Leitura!!!</strong>.
+    <br/>
+    Portanto precisamos ter cuidado para não alterar diretamente esses propriedades.
   </p>
