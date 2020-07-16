@@ -3,4 +3,9 @@ import {Text, View} from 'react-native';
 
 import Style from './estilo';
 
-export default () => <Text style={Style.fontG}>Primeiro Componente!!!!</Text>;
+export default () => {
+    console.warn('Teste utilizando o yellow box');
+    return(
+        <Text style={Style.fontG}>Primeiro Componente!!!!</Text>
+    );
+}
