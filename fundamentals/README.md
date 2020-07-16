@@ -4,3 +4,8 @@
     Garantimos que o conteúdo será apresentado sempre na área visível tanto do IPhone quanto do Android.
   </p>
 <hr/>
+  <strong>JSX</strong>:
+  <p>
+    Sintaxe HTML com JS, relembrando que sempre que tivermos JSX, precisamos importar o React.
+  </p>
+<hr/>
