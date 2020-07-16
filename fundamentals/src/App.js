@@ -22,7 +22,7 @@ export default () => {
             <Aleatorio min={1} max={99}/>
             <Titulo principal={'React Native'} secundario={'É muito legal.'}/>
             <Botao />*/}
-            <Contador inicial={10} passo={5}/>
+            <Contador inicial={10} />
         </View>
     )
 }

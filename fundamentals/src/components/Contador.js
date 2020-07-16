@@ -5,8 +5,7 @@ import Style from './estilo';
 
 export default props => {
     const [inicial, setInicial] = useState(props.inicial);
-    const [passo, setPasso] = useState(props.passo);
-
+    const [passo, setPasso] = useState(props.passo || 5);
 
     const incrementNumber = _ => {
         setInicial(inicial + passo);
