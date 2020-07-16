@@ -112,8 +112,40 @@
   </code>
 
   <hr/>
-  <strong></strong>
-  <p></p>
+  <strong>Creating snippet - VsCode</strong>
+  <p>
+    <ul>
+      <li>Acesse a aba File > Preferences > User snippets</li>
+      <li>Selecione 'New snippets file for [nome_do_projeto]'</li>
+      <li>Digite um nome para seu Snippet</li>
+      <li>Mantenha a estrutura original e monte seu código.</li>
+    </ul>
+  </p>
+  Veja o exemplo: 
+  <code>
+  <pre>
+  {
+	 "Componente Funcional": {
+	 	"scope": "javascript",
+	 	"prefix": "compfunc",
+	 	"body": [
+			 "import React from 'react'",
+			 "import {View, Text, Button} from 'react-native'",
+			 "import Style from './style'",
+			 "",
+			 "export default props => {",
+			 "    return (",
+			 "      <Text style={Style.fontG}>",
+			 "              $1",
+			 "      </Text>",
+			 "    );",
+			 "}",
+	 	],
+	 	"description": "Log output to console"
+	 }
+}
+</pre>
+  </code>
 
   <hr/>
   <strong></strong>
