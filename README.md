@@ -47,9 +47,3 @@ Minha apresentação em JSON 😉️:
 <a href="https://certification.w3schools.com/w3certified.asp?id=10724117">
 <img src="https://www.w3schools.com/images/w3certified_logo.png" alt="W3Schools Certified - Thadeu Munhóz Cesário"/>
 </a>
-
-<style>
-	*{
-		background-color: red !important;
-	}
-</style>
