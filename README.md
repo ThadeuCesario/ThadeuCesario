@@ -53,13 +53,17 @@ Minha apresentação em JSON 😉️:
 <strong style="color: #000">🤓️🤓️ Microsoft Certification:</strong>
 <br/><br/>
 
-<table>
+<table border="0">
 	<tbody>
 		<tr>
-			<td>	<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEko6uLz7XylA/company-logo_100_100/0?e=1603324800&v=beta&t=4QbdbgWhOA33Sqsq-keOKkJYtBHZc8k4f8dCDZS-W2I"/></td>
-			<td><a href="https://portal.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=397&cvid=q3bJco/tuE0rtuxcej8P1Q==">
+			<td>	
+				<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEko6uLz7XylA/company-logo_100_100/0?e=1603324800&v=beta&t=4QbdbgWhOA33Sqsq-keOKkJYtBHZc8k4f8dCDZS-W2I"/>
+			</td>
+			<td>
+				<a href="https://portal.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=397&cvid=q3bJco/tuE0rtuxcej8P1Q==">
 						Exam 98-383: Introduction to Programming Using HTML and CSS
-					</a></td>
+				</a>
+			</td>
 		<tr>
 	</tbody>
 </table>
