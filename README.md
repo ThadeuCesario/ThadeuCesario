@@ -56,7 +56,7 @@ Minha apresentação em JSON 😉️:
 <table>
 	<tbody>
 		<tr>
-			<td>	
+			<td style="text-align:center">	
 				<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEko6uLz7XylA/company-logo_100_100/0?e=1603324800&v=beta&t=4QbdbgWhOA33Sqsq-keOKkJYtBHZc8k4f8dCDZS-W2I"/>
 			</td>
 			<td>
