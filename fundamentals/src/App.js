@@ -2,27 +2,34 @@ import React from 'react';
 import {View, StyleSheet} from 'react-native';
 
 /* Components */
-/* import PrimeiroComponente from './components/Primeiro';
+/* 
+import PrimeiroComponente from './components/Primeiro';
 import {MultiComponenteOne, MultiComponenteTwo, MultiComponenteThree as AnoterName} from './components/Multi';
 import MinMax from './components/MinMax'; 
 import Aleatorio from './components/Aleatorio';
 import Titulo from './components/Titulo';
-import Botao from './components/Botao';*/
+import Botao from './components/Botao';
 import Contador from './components/Contador';
+*/
+
+import Pai from './components/Direta/Pai';
 
 export default () => {
     return(
         <View style={style.App}>
-            {/* <PrimeiroComponente></PrimeiroComponente>
-            <MultiComponenteOne />
-            <MultiComponenteTwo />
-            <AnoterName />
-            <MinMax min={3} max={30}/>
-            <MinMax min={1} max={94}/> 
-            <Aleatorio min={1} max={99}/>
-            <Titulo principal={'React Native'} secundario={'É muito legal.'}/>
-            <Botao />*/}
-            <Contador inicial={10} />
+            {/* 
+                <PrimeiroComponente></PrimeiroComponente>
+                <MultiComponenteOne />
+                <MultiComponenteTwo />
+                <AnoterName />
+                <MinMax min={3} max={30}/>
+                <MinMax min={1} max={94}/> 
+                <Aleatorio min={1} max={99}/>
+                <Titulo principal={'React Native'} secundario={'É muito legal.'}/>
+                <Botao />
+                <Contador inicial={10} />
+            */}
+            <Pai />
         </View>
     )
 }
