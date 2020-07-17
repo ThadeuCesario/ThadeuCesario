@@ -52,7 +52,7 @@ Minha apresentação em JSON 😉️:
 <br/>
 <hr/>
 <br/>
-<strong style="color: #000">🤓️🤓️ Certifications:</strong>
+<strong style="color: #000">🤓️🤓️ Microsoft Certifications:</strong>
 <br/><br/>
 
 <table>
