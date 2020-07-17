@@ -53,13 +53,13 @@ Minha apresentação em JSON 😉️:
 <strong style="color: #000">🤓️🤓️ Microsoft Certification:</strong>
 <br/><br/>
 
-<table border="0">
+<table>
 	<tbody>
-		<tr>
-			<td style="border: none;">	
+		<tr style="border: 0">
+			<td style="border: 0">	
 				<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEko6uLz7XylA/company-logo_100_100/0?e=1603324800&v=beta&t=4QbdbgWhOA33Sqsq-keOKkJYtBHZc8k4f8dCDZS-W2I"/>
 			</td>
-			<td style="border: none;">
+			<td style="border: 0">
 				<a href="https://portal.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=397&cvid=q3bJco/tuE0rtuxcej8P1Q==">
 						Exam 98-383: Introduction to Programming Using HTML and CSS
 				</a>
