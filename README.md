@@ -36,10 +36,12 @@ Minha apresentação em JSON 😉️:
 
 <strong>
 🤣️🤣️
-	<a href="https://www.codewars.com/" style="color: #000">CodeWars Points:</a> 
+	<strong>CodeWars Points:</strong> 
 </strong>
 <br/><br/>
+<a href="https://www.codewars.com/users/ThadeuMunhoz">
 <img src="https://www.codewars.com/users/ThadeuMunhoz/badges/large" />
+</a>
 <br/>
 <hr/>
 <br/>
