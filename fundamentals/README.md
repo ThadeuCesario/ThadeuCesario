@@ -157,8 +157,10 @@
   </span>
 
   <hr/>
-  <strong></strong>
-  <p></p>
+  <strong>Comunicação Indireta</strong>
+  <p>
+  Na comunicação indireta, o filho precisa passar alguma informação para o componente pai. O desafio para esse tipo de comunicação, é que o filho não tem importação do elemento pai.
+  </p>
 
   <hr/>
   <strong></strong>
