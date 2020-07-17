@@ -148,8 +148,13 @@
   </code>
 
   <hr/>
-  <strong></strong>
-  <p></p>
+  <strong>Comunicação Direta</strong>
+  <p>A comunicação direta utiliza o <strong>props</strong>. Então basicamente, temos um componente pai
+  passando propriedades para um componente filho.</p>
+  <br/>
+  <span>
+  Sempre que um componente pai, possui uma comunicação direta para um componente filho. Significa que temos uma comunicação direta.
+  </span>
 
   <hr/>
   <strong></strong>
