@@ -53,7 +53,7 @@ Minha apresentação em JSON 😉️:
 <strong style="color: #000">🤓️🤓️ Microsoft Certification:</strong>
 <br/><br/>
 <div style="display:flex;">
-	<img style="width: 150px" src="https://docs.microsoft.com/en-us/media/learn/certification/badges/certification-exam.svg" style="margin: 0 15px 0 0"/>
+	<img style="width: 150px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQEko6uLz7XylA/company-logo_100_100/0?e=1603324800&v=beta&t=4QbdbgWhOA33Sqsq-keOKkJYtBHZc8k4f8dCDZS-W2I" style="margin: 0 15px 0 0"/>
 	<div>
 	 	<ul>
 			<li>
