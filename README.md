@@ -1,3 +1,5 @@
+
+<section>
 Minha apresentação em JSON 😉️:
 
 <code>
@@ -65,29 +67,6 @@ Minha apresentação em JSON 😉️:
 				</a>
 			</td>
 		<tr>
-				<tr>
-			<td>	
-				<a href="https://certification.w3schools.com/w3certified.asp?id=10724117">
-				<img src="https://www.w3schools.com/images/w3certified_logo.png" alt="W3Schools Certified - Thadeu Munhóz Cesário"/>
-				</a>
-			</td>
-			<td>
-				<a href="https://portal.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=397&cvid=q3bJco/tuE0rtuxcej8P1Q==">
-						Exam 98-383: Introduction to Programming Using HTML and CSS
-				</a>
-			</td>
-		<tr>
-				<tr>
-			<td>	
-				<a href="https://certification.w3schools.com/w3certified.asp?id=10724117">
-				<img src="https://www.w3schools.com/images/w3certified_logo.png" alt="W3Schools Certified - Thadeu Munhóz Cesário"/>
-				</a>
-			</td>
-			<td>
-				<a href="https://portal.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=397&cvid=q3bJco/tuE0rtuxcej8P1Q==">
-						Exam 98-383: Introduction to Programming Using HTML and CSS
-				</a>
-			</td>
-		<tr>
 	</tbody>
 </table>
+</section>
