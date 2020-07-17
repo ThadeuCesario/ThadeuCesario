@@ -52,25 +52,14 @@ Minha apresentação em JSON 😉️:
 <br/>
 <strong style="color: #000">🤓️🤓️ Microsoft Certification:</strong>
 <br/><br/>
-<div style="display:flex; border: solid 10px red">
-	<img style="width: 150px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQEko6uLz7XylA/company-logo_100_100/0?e=1603324800&v=beta&t=4QbdbgWhOA33Sqsq-keOKkJYtBHZc8k4f8dCDZS-W2I" style="margin: 0 15px 0 0"/>
-	<section>
-	 	<ul>
-			<li>
-				<strong>
-					<a href="https://portal.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=397&cvid=q3bJco/tuE0rtuxcej8P1Q==">
-						Exam 98-383: Introduction to Programming Using HTML and CSS
-					</a>
-				</strong>
-			</li> 
-		</ul>
-	</section>
-</div>
+
 <table>
 	<tbody>
 		<tr>
-			<td>TESTE</td>
-			<td>TESTE</td>
+			<td>	<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEko6uLz7XylA/company-logo_100_100/0?e=1603324800&v=beta&t=4QbdbgWhOA33Sqsq-keOKkJYtBHZc8k4f8dCDZS-W2I"/></td>
+			<td><a href="https://portal.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=397&cvid=q3bJco/tuE0rtuxcej8P1Q==">
+						Exam 98-383: Introduction to Programming Using HTML and CSS
+					</a></td>
 		<tr>
 	</tbody>
 </table>
