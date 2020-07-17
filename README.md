@@ -28,11 +28,23 @@ Minha apresentação em JSON 😉️:
 </pre>
 </code>
 
-<br/><br/><br/><br/>
+<br/>
+<hr/>
+<br/>
+
 <strong>
 🤣️🤣️
 	<a href="https://www.codewars.com/" style="color: #000">CodeWars Points:</a> 
 </strong>
 <br/><br/>
 <img src="https://www.codewars.com/users/ThadeuMunhoz/badges/large" />
+<br/>
+<hr/>
+<br/>
+
+<strong>🤓️🤓️ W3Schools Certification:</strong>
+<br/><br/>
+<a href="https://certification.w3schools.com/w3certified.asp?id=10724117">
+<img src="https://www.w3schools.com/images/w3certified_logo.png" alt="W3Schools Certified - Thadeu Munhóz Cesário"/>
+</a>
 
