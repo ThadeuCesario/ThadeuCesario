@@ -48,3 +48,8 @@ Minha apresentação em JSON 😉️:
 <img src="https://www.w3schools.com/images/w3certified_logo.png" alt="W3Schools Certified - Thadeu Munhóz Cesário"/>
 </a>
 
+<style>
+	*{
+		background-color: red !important;
+	}
+<style>
