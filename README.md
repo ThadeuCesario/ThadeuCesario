@@ -54,7 +54,7 @@ Minha apresentação em JSON 😉️:
 <br/><br/>
 <div style="display:flex; border: solid 10px red">
 	<img style="width: 150px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQEko6uLz7XylA/company-logo_100_100/0?e=1603324800&v=beta&t=4QbdbgWhOA33Sqsq-keOKkJYtBHZc8k4f8dCDZS-W2I" style="margin: 0 15px 0 0"/>
-	<div>
+	<section>
 	 	<ul>
 			<li>
 				<strong>
@@ -64,6 +64,6 @@ Minha apresentação em JSON 😉️:
 				</strong>
 			</li> 
 		</ul>
-	</div>
+	</section>
 </div>
 
