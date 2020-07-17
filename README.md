@@ -50,16 +50,40 @@ Minha apresentação em JSON 😉️:
 <br/>
 <hr/>
 <br/>
-<strong style="color: #000">🤓️🤓️ Microsoft Certification:</strong>
+<strong style="color: #000">🤓️🤓️ Certifications:</strong>
 <br/><br/>
 
 <table>
 	<tbody>
-		<tr style="border: 0 !important">
-			<td style="border: 0 !important">	
+		<tr>
+			<td>	
 				<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEko6uLz7XylA/company-logo_100_100/0?e=1603324800&v=beta&t=4QbdbgWhOA33Sqsq-keOKkJYtBHZc8k4f8dCDZS-W2I"/>
 			</td>
-			<td style="border: 0 !important">
+			<td>
+				<a href="https://portal.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=397&cvid=q3bJco/tuE0rtuxcej8P1Q==">
+						Exam 98-383: Introduction to Programming Using HTML and CSS
+				</a>
+			</td>
+		<tr>
+				<tr>
+			<td>	
+				<a href="https://certification.w3schools.com/w3certified.asp?id=10724117">
+				<img src="https://www.w3schools.com/images/w3certified_logo.png" alt="W3Schools Certified - Thadeu Munhóz Cesário"/>
+				</a>
+			</td>
+			<td>
+				<a href="https://portal.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=397&cvid=q3bJco/tuE0rtuxcej8P1Q==">
+						Exam 98-383: Introduction to Programming Using HTML and CSS
+				</a>
+			</td>
+		<tr>
+				<tr>
+			<td>	
+				<a href="https://certification.w3schools.com/w3certified.asp?id=10724117">
+				<img src="https://www.w3schools.com/images/w3certified_logo.png" alt="W3Schools Certified - Thadeu Munhóz Cesário"/>
+				</a>
+			</td>
+			<td>
 				<a href="https://portal.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=397&cvid=q3bJco/tuE0rtuxcej8P1Q==">
 						Exam 98-383: Introduction to Programming Using HTML and CSS
 				</a>
