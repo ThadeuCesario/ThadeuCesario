@@ -28,7 +28,11 @@ Minha apresentação em JSON 😉️:
 </pre>
 </code>
 
-Testando 
-
+<br/><br/><br/><br/>
+<strong>
+🤣️🤣️
+	<a href="https://www.codewars.com/" style="color: #000">CodeWars Points:</a> 
+</strong>
+<br/><br/>
 <img src="https://www.codewars.com/users/ThadeuMunhoz/badges/large" />
 
