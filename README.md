@@ -28,3 +28,7 @@ Minha apresentação em JSON 😉️:
 </pre>
 </code>
 
+Testando 
+
+<img src="https://www.codewars.com/users/ThadeuMunhoz/badges/large" />
+
