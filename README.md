@@ -47,3 +47,23 @@ Minha apresentação em JSON 😉️:
 <a href="https://certification.w3schools.com/w3certified.asp?id=10724117">
 <img src="https://www.w3schools.com/images/w3certified_logo.png" alt="W3Schools Certified - Thadeu Munhóz Cesário"/>
 </a>
+<br/>
+<hr/>
+<br/>
+<strong style="color: #000">🤓️🤓️ Microsoft Certification:</strong>
+<br/><br/>
+<div style="display:flex;">
+	<img src="https://docs.microsoft.com/en-us/media/learn/certification/badges/certification-exam.svg" style="margin: 0 15px 0 0"/>
+	<div>
+	 	<ul>
+			<li>
+				<strong>
+					<a href="https://portal.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=397&cvid=q3bJco/tuE0rtuxcej8P1Q==">
+						Exam 98-383: Introduction to Programming Using HTML and CSS
+					</a>
+				</strong>
+			</li> 
+		</ul>
+	</div>
+</div>
+
