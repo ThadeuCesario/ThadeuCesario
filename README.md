@@ -1,5 +1,7 @@
 Minha apresentação em JSON 😉️:
 
+<code>
+<pre>
 {
 	"ThadeuCesario": {
 		"Formação": "Engenheiro de Computação",
@@ -23,5 +25,6 @@ Minha apresentação em JSON 😉️:
 		]
 	}
 }
-
+</pre>
+</code>
 
