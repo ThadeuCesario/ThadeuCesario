@@ -10,9 +10,9 @@ import Aleatorio from './components/Aleatorio';
 import Titulo from './components/Titulo';
 import Botao from './components/Botao';
 import Contador from './components/Contador';
+import Pai from './components/Direta/Pai'; 
 */
-
-import Pai from './components/Direta/Pai';
+import Pai from './components/Indireta/Pai';
 
 export default () => {
     return(
@@ -28,6 +28,7 @@ export default () => {
                 <Titulo principal={'React Native'} secundario={'É muito legal.'}/>
                 <Botao />
                 <Contador inicial={10} />
+                <Pai />
             */}
             <Pai />
         </View>
