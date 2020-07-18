@@ -17,13 +17,16 @@ Minha apresentação em JSON 😉️:
 			"Bootstrap",
 			"ReactJS",
 			"React Native",
-			"Oracle Digital Commerce",
+			"Oracle Commerce Cloud",
 			"Magento",
 			"Grunt",
 			"Gulp",
 			"Webpack",
 			"SASS",
-			"LESS"
+			"LESS",
+			"SQL",
+			"Node",
+			"PHP",
 		]
 	}
 }
@@ -46,7 +49,7 @@ Minha apresentação em JSON 😉️:
 <hr/>
 <br/>
 
-<strong style="color: #000">🤓️🤓️ W3Schools Certification:</strong>
+<strong style="color: #000">🤓️🤓️ W3Schools Certifications:</strong>
 <br/><br/>
 <a href="https://certification.w3schools.com/w3certified.asp?id=10724117">
 <img src="https://www.w3schools.com/images/w3certified_logo.png" alt="W3Schools Certified - Thadeu Munhóz Cesário"/>
