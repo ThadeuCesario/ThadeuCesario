@@ -1,7 +1,6 @@
 
 <section>
 Minha apresentação em JSON 😉️:
-
 <code>
 <pre>
 {
