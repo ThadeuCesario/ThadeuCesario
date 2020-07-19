@@ -75,5 +75,6 @@ Minha apresentação em JSON 😉️:
 	</tbody>
 </table>
 
+<img src='https://i.ibb.co/z4JRP72/Linkedin-Logo.png'/>
 </section>
 
