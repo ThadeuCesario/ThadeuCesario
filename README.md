@@ -13,6 +13,7 @@ Minha apresentação em JSON 😉️:
 			"CSS3",
 			"HTML5",
 			"jQuery",
+			"KnockoutJS",
 			"Bootstrap",
 			"ReactJS",
 			"React Native",
