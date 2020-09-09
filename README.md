@@ -48,7 +48,6 @@
 <br/>
 <hr/>
 <br/>
-
 <strong style="color: #000">🤓️🤓️ W3Schools Certifications:</strong>
 <br/><br/>
 <a href="https://certification.w3schools.com/w3certified.asp?id=10724117">
