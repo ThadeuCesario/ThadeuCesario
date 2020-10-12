@@ -27,6 +27,7 @@
 			"SQL",
 			"Node",
 			"PHP",
+			"Kotlin",
 		]
 	}
 }
