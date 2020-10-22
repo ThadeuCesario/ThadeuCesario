@@ -58,7 +58,6 @@
 <br/>
 <strong style="color: #000">🤓️🤓️ Microsoft Certifications:</strong>
 <br/><br/>
-
 <table>
 	<tbody>
 		<tr>
