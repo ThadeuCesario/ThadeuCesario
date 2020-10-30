@@ -45,7 +45,6 @@
 <a href="https://www.codewars.com/users/ThadeuMunhoz">
 <img src="https://www.codewars.com/users/ThadeuMunhoz/badges/large" />
 </a>
-
 <br/>
 <hr/>
 <br/>
