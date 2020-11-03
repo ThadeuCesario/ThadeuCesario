@@ -16,7 +16,7 @@
 			"KnockoutJS",
 			"Bootstrap",
 			"React Native",
-			"ReactJS",
+			"ReactJS",		
 			"Oracle Commerce Cloud",
 			"Magento",
 			"Grunt",
@@ -26,7 +26,7 @@
 			"LESS",
 			"SQL",
 			"Node",
-			"PHP",
+			"Typescript",
 			"Kotlin",
 		]
 	}
