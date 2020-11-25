@@ -8,7 +8,7 @@
 	"ThadeuCesario": {
 		"Formação": "Engenheiro de Computação",
 		"Profissão": "Desenvolvedor Front-End Pleno",
-		"Idade": 25,
+		"Idade": 26,
 		"Tecnologias": [
 			"Javascript",
 			"CSS3",
