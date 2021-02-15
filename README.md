@@ -60,7 +60,7 @@
 	<tbody>
 		<tr>
 			<td style="text-align:center">	
-				<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEko6uLz7XylA/company-logo_100_100/0?e=1611792000&v=beta&t=rugMLzCX0ja25UyrQ6QHgzrI2z-oNu_2_slYIW-E5oM"/>
+				<img src="https://media-exp1.licdn.com/dms/image/C560BAQH8hBKOFXvqag/company-logo_100_100/0/1609783110976?e=1621468800&v=beta&t=UPYAB21r5L0y3wj8EJp3czUCjLHxA1eCZ1RlOuDm87Q"/>
 			</td>
 			<td>
 				<a href="https://portal.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=397&cvid=q3bJco/tuE0rtuxcej8P1Q==">
