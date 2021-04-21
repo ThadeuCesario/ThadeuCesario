@@ -28,6 +28,7 @@
 			"Node",
 			"Typescript",
 			"Kotlin",
+			"Prettier",
 		]
 	}
 }
