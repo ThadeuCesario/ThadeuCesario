@@ -29,6 +29,7 @@
 			"Typescript",
 			"Kotlin",
 			"Prettier",
+			"ESLint"
 		]
 	}
 }
