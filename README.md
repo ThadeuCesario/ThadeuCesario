@@ -29,7 +29,8 @@
 			"Typescript",
 			"Kotlin",
 			"Prettier",
-			"ESLint"
+			"ESLint",
+			"Docker"
 		]
 	}
 }
