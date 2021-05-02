@@ -27,7 +27,6 @@
 			"SQL",
 			"Node",
 			"Typescript",
-			"Kotlin",
 			"Prettier",
 			"ESLint",
 			"Docker"
