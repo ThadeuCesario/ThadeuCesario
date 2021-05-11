@@ -24,7 +24,7 @@
 			"Webpack",
 			"SASS",
 			"LESS",
-			"SQL",
+			"Styled Component",
 			"Node",
 			"Typescript",
 			"Prettier",
