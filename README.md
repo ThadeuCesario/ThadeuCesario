@@ -61,7 +61,7 @@
 	<tbody>
 		<tr>
 			<td style="text-align:center">	
-				<img style="height:110px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Microsoft_logo_-_2012_%28vertical%29.svg/1910px-Microsoft_logo_-_2012_%28vertical%29.svg.png"/>
+				<img src="https://i.pinimg.com/originals/e7/d7/c3/e7d7c3b9083afa752a4e9ce33f0025c4.png"/>
 			</td>
 			<td>
 				<a href="https://portal.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=397&cvid=q3bJco/tuE0rtuxcej8P1Q==">
