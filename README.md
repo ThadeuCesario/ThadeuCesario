@@ -29,6 +29,10 @@
 			"Prettier",
 			"ESLint",
 			"Docker"
+		],
+		"Idiomas": [
+			"Português",
+			"Inglês",
 		]
 	}
 }
