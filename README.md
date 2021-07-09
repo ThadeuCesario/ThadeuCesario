@@ -5,7 +5,7 @@
 {
 	"ThadeuCesario": {
 		"Formação": "Engenheiro de Computação",
-		"Profissão": "Desenvolvedor Front-End Pleno",
+		"Profissão": "Desenvolvedor Full Stack",
 		"Tecnologias": [
 			"Javascript",
 			"CSS3",
