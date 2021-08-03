@@ -23,6 +23,7 @@
 			"SASS",
 			"LESS",
 			"Styled Components",
+			"Modules CSS",
 			"Node",
 			"Typescript",
 			"Prettier",
