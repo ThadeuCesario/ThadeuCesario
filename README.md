@@ -20,6 +20,7 @@
 			"Grunt",
 			"Gulp",
 			"Webpack",
+			"Nightwatch.js"
 			"SASS",
 			"LESS",
 			"Styled Components",
@@ -28,7 +29,7 @@
 			"Typescript",
 			"Prettier",
 			"ESLint",
-			"Docker"
+			"Docker",
 		],
 		"Idiomas": [
 			"Português",
