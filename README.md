@@ -70,7 +70,7 @@
 			</td>
 			<td>
 				<a href="https://portal.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=397&cvid=q3bJco/tuE0rtuxcej8P1Q==">
-						Exam 98-383: Introduction to Programming Using HTML and CSS
+					<img src="https://lh3.googleusercontent.com/oBC6DaenirepcIgv43rxhC-hNxw_Hqpk72tePcLzbH9GB-evBwNJTNJkNcY5c-b1nQ=h500" />
 				</a>
 			</td>
 		<tr>
