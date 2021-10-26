@@ -1,7 +1,6 @@
-<section>
-<!-- <strong>Minha apresentação em JSON 😉️:</strong> -->
-<code>
-<pre>
+## About me:
+
+```json
 {
 	"ThadeuCesario": {
 		"Formação": "Engenheiro de Computação",
@@ -37,8 +36,8 @@
 		]
 	}
 }
-</pre>
-</code>
+```
+<section>
 <br/>
 <hr/>
 <br/>
