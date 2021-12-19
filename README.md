@@ -1,5 +1,4 @@
 ## About me:
-
 ```json
 {
 	"ThadeuCesario": {
