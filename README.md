@@ -45,8 +45,8 @@
 	<strong>CodeWars Points:</strong> 
 </strong>
 <br/><br/>
-<a href="https://www.codewars.com/users/ThadeuMunhoz">
-<img src="https://www.codewars.com/users/ThadeuMunhoz/badges/large" />
+<a href="https://www.codewars.com/users/ThadeuCesario">
+<img src="https://www.codewars.com/users/ThadeuCesario/badges/large" />
 </a>
 <br/>
 <hr/>
